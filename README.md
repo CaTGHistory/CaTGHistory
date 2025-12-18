@@ -1,16 +1,27 @@
-## Hi there 👋
+# **CaTGHistory** 👨‍💻
 
-<!--
-**CaTGHistory/CaTGHistory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+¡Hola! Soy **CaTGHistory**, un desarrollador apasionado por la programación, el diseño 3D y el desarrollo de videojuegos.
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades Técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Lenguajes de Programación**
+- **C#** - .NET, ASP.NET Core, Unity
+- **Java** - Spring Boot, Android Development
+
+### **Desarrollo de Videojuegos**
+- **Godot Engine** - Desarrollo de juegos 2D/3D
+- Game design y programación de mecánicas
+
+### **Diseño 3D y Gráficos**
+- **Blender** - Modelado 3D, animación, renders
+
+## 📊 Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CaTGHistory&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CaTGHistory&layout=compact&theme=radical)
+
+---
+
+
+*Última actualización: {{fecha}}*
